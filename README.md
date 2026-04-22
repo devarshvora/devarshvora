@@ -179,10 +179,8 @@
 <a href="https://github.com/devarshvora"> <img width="40px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 </p>
 
-<br>
 
 ---
-
 <p align="center">
 💼 <strong>Open to opportunities in Analytics, Data Science, Business Intelligence, and AI/ML Engineering</strong>
 </p>
