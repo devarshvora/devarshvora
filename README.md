@@ -1,8 +1,6 @@
 <p align="center">
 </p>
 
-<h1> Hello Fellow < Tech Professionals />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%40+CyberdomeUSA;MS+Computer+Science+-+UT+Arlington;Building+ML+Models+%26+Data+Pipelines;Transforming+Data+into+Actionable+Insights;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
@@ -15,18 +13,15 @@
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="margin-top: -15%;">
 
 
+💼 Data Scientist at CyberdomeUSA with 3+ years of experience in ML, data engineering, and analytics
 
-- I'm currently working as a Data Scientist at CyberdomeUSA
+🎯 Specialized in building end-to-end ML pipelines, RAG systems, and scalable data solutions
 
-- I'm currently learning Vector Database Optimization and Production MLOps
+📊 Proven track record in delivering data-driven insights that impact business decisions and operational efficiency
 
-- I'm looking to collaborate on Data Analytics, ML Pipelines, and Business Intelligence Projects
+🎓 MS in Computer Science (Data Science) from UT Arlington
 
-- Ask me about Python, SQL, Machine Learning, Statistical Analysis, and Data Visualization
-
-- Education: MS in Computer Science (Data Science) from UT Arlington
-
-- **Fun fact:** I speak Python more fluently than my native language
+⚡**Fun fact:** I speak Python more fluently than my native language
 <br>
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
@@ -189,7 +184,7 @@
 ---
 
 <p align="center">
-💼 <strong>Open to Data Scientist, Data Analyst, and Business Intelligence opportunities</strong>
+💼 <strong>Open to opportunities in Analytics, Data Science, Business Intelligence, and AI/ML Engineering</strong>
 </p>
 <p align="center">
 📍 Based in Indiana, USA (Open to relocate) | 📧 Let's build data-driven solutions together!
